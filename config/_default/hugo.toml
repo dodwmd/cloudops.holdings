@@ -65,3 +65,6 @@ googleAnalytics = "G-T2HYP66Y78"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[footer]
+  powered_by = ""
