@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "CloudOps Holdings"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  secondaryLogo = "img/secondary_logo.jpg"
+  description = "Empowering Cloud Excellence with Smart DevOps Solutions"
+  copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Michael Dodwell"
+  email = "michael@cloudops.holdings"
+  image = "img/dodwmd.png"
+  imageQuality = 96
+  headline = "DevOps Magic for Effortless Cloud Deployments"
+  bio = "DevOps Advocate helping clients migrate to a common multi-cloud fabric using Kubernetes and the latest technologies"
+  links = [
+    { email = "mailto:michael@cloudops.holdings" },
+    { link = "https://cloudops.holdings/" },
+    { github = "https://github.com/dodwmd" },
+    { linkedin = "https://linkedin.com/in/michael.dodwell" },
+  ]
